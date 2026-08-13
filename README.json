@@ -1,0 +1,458 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📺 Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QT",
+          "description": "Official QT client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T08:58:50Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-qt",
+            "stars": 18264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android",
+          "description": "Official Android client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:51:30Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-android",
+            "stars": 6959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedded",
+          "description": "Official Embedded client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-06T03:28:36Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-embedded",
+            "stars": 1649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS",
+          "description": "Official iOS client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-09T02:56:42Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-ios",
+            "stars": 1629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChromeOS",
+          "description": "Official ChromeOS client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-02-13T03:57:47Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-chrome",
+            "stars": 811
+          }
+        }
+      ],
+      "title": "✳️ Official Moonlight Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nintendo Switch",
+          "description": "Moonlight client for Nintendo Switch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T19:39:26Z",
+            "owner": "XITRIX",
+            "repo": "Moonlight-Switch",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LG webOS TV",
+          "description": "Moonlight client for LG webOS TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T05:28:35Z",
+            "owner": "mariotaku",
+            "repo": "moonlight-tv",
+            "stars": 1452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PS Vita",
+          "description": "Moonlight client for PS Vita.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-27T13:43:24Z",
+            "owner": "xyzz",
+            "repo": "vita-moonlight",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UWP/Xbox (One/Series)",
+          "description": "Moonlight client for UWP/Xbox (One/Series).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T13:57:51Z",
+            "owner": "TheElixZammuto",
+            "repo": "moonlight-xbox",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Nintendo 3DS",
+          "description": "Moonlight client for New Nintendo 3DS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-18T15:38:28Z",
+            "owner": "zoeyjodon",
+            "repo": "moonlight-N3DS",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samsung Tizen TV",
+          "description": "Moonlight client for Samsung Tizen TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T09:43:29Z",
+            "owner": "brightcraft",
+            "repo": "moonlight-tizen",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nintendo Wii U",
+          "description": "Moonlight client for Nintendo Wii U.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-14T23:22:39Z",
+            "owner": "GaryOderNichts",
+            "repo": "moonlight-wiiu",
+            "stars": 210
+          }
+        }
+      ],
+      "title": "✴️ Third-Party Moonlight Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cloudy Pad",
+          "description": "Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-10T13:50:36Z",
+            "owner": "PierreBeucher",
+            "repo": "cloudypad",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LutrisToSunshine",
+          "description": "This script lists games from Lutris, Heroic and/or Bottles, adds them to Sunshine, and optionally downloads game covers from SteamGridDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T15:36:01Z",
+            "owner": "Arbitrate3280",
+            "repo": "LutrisToSunshine",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sunshine_utils",
+          "description": "Utilities for using with Sunshine / Moonlight / Playnite game streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-21T12:51:21Z",
+            "owner": "designer-living",
+            "repo": "sunshine_utils",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSMS",
+          "description": "Migrate games and apps from GeForce Experience to Sunshine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-11-17T00:05:34Z",
+            "owner": "LizardByte",
+            "repo": "GSMS",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunshineGameFinder",
+          "description": "Adds games from common game install paths to Sunshine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-06T15:48:06Z",
+            "owner": "JMTK",
+            "repo": "SunshineGameFinder",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuinputd",
+          "description": "Enabling container-friendly input handling for Sunshine on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-09T11:56:02Z",
+            "owner": "joleuger",
+            "repo": "vuinputd",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeonSunshine",
+          "description": "Add and sort games with cover art downloading from SteamGridDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-27T03:18:37Z",
+            "owner": "NeonLightning",
+            "repo": "NeonSunshine",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "🔧 Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Virtual-Display-Driver",
+          "description": "Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T22:00:18Z",
+            "owner": "VirtualDrivers",
+            "repo": "Virtual-Display-Driver",
+            "stars": 9870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parsec-vdd",
+          "description": "Standalone Parsec Virtual Display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-15T07:15:33Z",
+            "owner": "nomi-san",
+            "repo": "parsec-vdd",
+            "stars": 5438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evdi",
+          "description": "Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-01T10:16:56Z",
+            "owner": "DisplayLink",
+            "repo": "evdi",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "virtual-display-rs",
+          "description": "A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-03T18:37:21Z",
+            "owner": "MolotovCherry",
+            "repo": "virtual-display-rs",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirtualDisplayDriver_Wizard",
+          "description": "A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoHotkey",
+            "last_commit": "2025-04-03T21:58:13Z",
+            "owner": "PrPlanIT",
+            "repo": "DisplayWizard",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "💻 Virtual Displays"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Display Automation",
+          "description": "Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-04-20T01:08:46Z",
+            "owner": "fehbari",
+            "repo": "sunshine-scripts",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dummy Plug Automation",
+          "description": "Automation for remote streaming using a dummy plug on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-30T00:01:32Z",
+            "owner": "XenHat",
+            "repo": "dummy-plug-automation",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GsyncToggle",
+          "description": "Nvidia's toggle G-Sync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-12T19:46:18Z",
+            "owner": "FrogTheFrog",
+            "repo": "gsync-toggle",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrlToggle",
+          "description": "Nvidia's Frame Rate Limiter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-21T11:13:39Z",
+            "owner": "FrogTheFrog",
+            "repo": "frl-toggle",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VsyncToggle",
+          "description": "Nvidia's toggle V-Sync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-21T20:24:01Z",
+            "owner": "xanderfrangos",
+            "repo": "vsync-toggle",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "📜 Scripts"
+    },
+    {
+      "description": "Contributions welcome! But, please follow the LizardByte Contributing Guidelines when contributing to this project.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:05.399Z",
+    "original_repository": "LizardByte/awesome-sunshine",
+    "original_repository_sha": "a6925755a5238b4cca77dedfc6b4779416d35824",
+    "enhanced_repository": "enhansome/enhansome-sunshine",
+    "enhanced_repository_description": null,
+    "title": "Awesome sunshine with stars"
+  }
+}
