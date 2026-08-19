@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T03:26:12Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18326
+                "stars": 18331
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 6980
+                "stars": 6981
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 713545799,
                 "language": "C",
-                "last_commit": "2026-08-18T20:05:22Z",
+                "last_commit": "2026-08-19T16:03:42Z",
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
                 "stars": 245
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-24T15:36:01Z",
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9898
+            "stars": 9903
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5499
+            "stars": 5500
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:33.256Z",
+    "last_updated": "2026-08-19T23:16:04.967Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
     "original_repository_sha": "1ae01e1d09cf5bbaa22618aa7376802ad4613b0f",
