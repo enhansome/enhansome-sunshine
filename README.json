@@ -1,192 +1,207 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QT",
+              "description": "Official QT client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131449222,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:26:12Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-qt",
+                "stars": 18326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": "Official Android client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12989790,
+                "language": "C",
+                "last_commit": "2026-08-11T15:51:30Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-android",
+                "stars": 6980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedded",
+              "description": "Official Embedded client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15691240,
+                "language": "C",
+                "last_commit": "2026-06-06T03:28:36Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-embedded",
+                "stars": 1654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": "Official iOS client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16018083,
+                "language": "C",
+                "last_commit": "2025-10-09T02:56:42Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-ios",
+                "stars": 1636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChromeOS",
+              "description": "Official ChromeOS client.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51626956,
+                "language": "C",
+                "last_commit": "2024-02-13T03:57:47Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-chrome",
+                "stars": 813
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "✳️ Official Moonlight Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nintendo Switch",
+              "description": "Moonlight client for Nintendo Switch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375381453,
+                "language": "C",
+                "last_commit": "2026-07-26T19:39:26Z",
+                "owner": "XITRIX",
+                "repo": "Moonlight-Switch",
+                "stars": 1606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LG webOS TV",
+              "description": "Moonlight client for LG webOS TV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325637626,
+                "language": "C",
+                "last_commit": "2026-08-18T15:17:23Z",
+                "owner": "mariotaku",
+                "repo": "moonlight-tv",
+                "stars": 1457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PS Vita",
+              "description": "Moonlight client for PS Vita.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65733661,
+                "language": "C",
+                "last_commit": "2025-11-27T13:43:24Z",
+                "owner": "xyzz",
+                "repo": "vita-moonlight",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UWP/Xbox (One/Series)",
+              "description": "Moonlight client for UWP/Xbox (One/Series).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379709801,
+                "language": "C++",
+                "last_commit": "2026-08-18T11:04:25Z",
+                "owner": "TheElixZammuto",
+                "repo": "moonlight-xbox",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "New Nintendo 3DS",
+              "description": "Moonlight client for New Nintendo 3DS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706378263,
+                "language": "C++",
+                "last_commit": "2026-03-18T15:38:28Z",
+                "owner": "zoeyjodon",
+                "repo": "moonlight-N3DS",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Samsung Tizen TV",
+              "description": "Moonlight client for Samsung Tizen TV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713545799,
+                "language": "C",
+                "last_commit": "2026-08-18T20:05:22Z",
+                "owner": "brightcraft",
+                "repo": "moonlight-tizen",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nintendo Wii U",
+              "description": "Moonlight client for Nintendo Wii U.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353501945,
+                "language": "C",
+                "last_commit": "2026-02-14T23:22:39Z",
+                "owner": "GaryOderNichts",
+                "repo": "moonlight-wiiu",
+                "stars": 210
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "✴️ Third-Party Moonlight Clients"
+        }
+      ],
       "title": "📺 Clients"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "QT",
-          "description": "Official QT client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T05:43:40Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-qt",
-            "stars": 18319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android",
-          "description": "Official Android client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-11T15:51:30Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-android",
-            "stars": 6981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Embedded",
-          "description": "Official Embedded client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-06T03:28:36Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-embedded",
-            "stars": 1653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS",
-          "description": "Official iOS client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-09T02:56:42Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-ios",
-            "stars": 1636
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChromeOS",
-          "description": "Official ChromeOS client.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-02-13T03:57:47Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-chrome",
-            "stars": 813
-          }
-        }
-      ],
-      "title": "✳️ Official Moonlight Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nintendo Switch",
-          "description": "Moonlight client for Nintendo Switch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-26T19:39:26Z",
-            "owner": "XITRIX",
-            "repo": "Moonlight-Switch",
-            "stars": 1605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LG webOS TV",
-          "description": "Moonlight client for LG webOS TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T15:17:23Z",
-            "owner": "mariotaku",
-            "repo": "moonlight-tv",
-            "stars": 1457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PS Vita",
-          "description": "Moonlight client for PS Vita.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-11-27T13:43:24Z",
-            "owner": "xyzz",
-            "repo": "vita-moonlight",
-            "stars": 807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UWP/Xbox (One/Series)",
-          "description": "Moonlight client for UWP/Xbox (One/Series).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T11:04:25Z",
-            "owner": "TheElixZammuto",
-            "repo": "moonlight-xbox",
-            "stars": 583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "New Nintendo 3DS",
-          "description": "Moonlight client for New Nintendo 3DS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-18T15:38:28Z",
-            "owner": "zoeyjodon",
-            "repo": "moonlight-N3DS",
-            "stars": 301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samsung Tizen TV",
-          "description": "Moonlight client for Samsung Tizen TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T20:05:22Z",
-            "owner": "brightcraft",
-            "repo": "moonlight-tizen",
-            "stars": 244
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nintendo Wii U",
-          "description": "Moonlight client for Nintendo Wii U.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-14T23:22:39Z",
-            "owner": "GaryOderNichts",
-            "repo": "moonlight-wiiu",
-            "stars": 210
-          }
-        }
-      ],
-      "title": "✴️ Third-Party Moonlight Clients"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -195,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715131551,
             "language": "TypeScript",
             "last_commit": "2026-05-10T13:50:36Z",
             "owner": "PierreBeucher",
@@ -209,6 +225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819294191,
             "language": "Python",
             "last_commit": "2026-07-24T15:36:01Z",
             "owner": "Arbitrate3280",
@@ -223,6 +240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636740175,
             "language": "Python",
             "last_commit": "2023-08-21T12:51:21Z",
             "owner": "designer-living",
@@ -237,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 581905017,
             "language": "Python",
             "last_commit": "2024-11-17T00:05:34Z",
             "owner": "LizardByte",
@@ -251,6 +270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618901342,
             "language": "C#",
             "last_commit": "2025-12-06T15:48:06Z",
             "owner": "JMTK",
@@ -265,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082204087,
             "language": "Rust",
             "last_commit": "2026-05-09T11:56:02Z",
             "owner": "joleuger",
@@ -279,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921372879,
             "language": "Python",
             "last_commit": "2025-01-27T03:18:37Z",
             "owner": "NeonLightning",
@@ -290,7 +312,7 @@
       "title": "🔧 Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -299,6 +321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 704889202,
             "language": "C++",
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
@@ -313,11 +336,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562007145,
             "language": "C#",
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5500
+            "stars": 5499
           }
         },
         {
@@ -327,11 +351,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40113584,
             "language": "C",
-            "last_commit": "2026-07-01T10:16:56Z",
+            "last_commit": "2026-08-19T08:22:31Z",
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -341,11 +366,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686128738,
             "language": "Rust",
             "last_commit": "2025-03-03T18:37:21Z",
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 889
+            "stars": 890
           }
         },
         {
@@ -355,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853530648,
             "language": "AutoHotkey",
             "last_commit": "2025-04-03T21:58:13Z",
             "owner": "PrPlanIT",
@@ -366,7 +393,7 @@
       "title": "💻 Virtual Displays"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -375,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831894109,
             "language": "PowerShell",
             "last_commit": "2026-04-20T01:08:46Z",
             "owner": "fehbari",
@@ -389,6 +417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 865520533,
             "language": "Shell",
             "last_commit": "2026-07-30T00:01:32Z",
             "owner": "XenHat",
@@ -403,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677776362,
             "language": "C++",
             "last_commit": "2025-03-12T19:46:18Z",
             "owner": "FrogTheFrog",
@@ -417,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 691277869,
             "language": "C++",
             "last_commit": "2023-12-21T11:13:39Z",
             "owner": "FrogTheFrog",
@@ -431,6 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 734488681,
             "language": "C++",
             "last_commit": "2023-12-21T20:24:01Z",
             "owner": "xanderfrangos",
@@ -440,16 +472,12 @@
         }
       ],
       "title": "📜 Scripts"
-    },
-    {
-      "description": "Contributions welcome! But, please follow the LizardByte Contributing Guidelines when contributing to this project.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:15:06.042Z",
+    "last_updated": "2026-08-19T12:55:33.256Z",
     "original_repository": "LizardByte/awesome-sunshine",
+    "original_repository_id": 843560793,
     "original_repository_sha": "1ae01e1d09cf5bbaa22618aa7376802ad4613b0f",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
