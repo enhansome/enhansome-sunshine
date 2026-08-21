@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T03:26:12Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18339
+                "stars": 18344
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 6985
+                "stars": 6986
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-06T03:28:36Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1654
+                "stars": 1655
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-10-09T02:56:42Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1637
+                "stars": 1638
               }
             },
             {
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 325637626,
                 "language": "C",
-                "last_commit": "2026-08-18T15:17:23Z",
+                "last_commit": "2026-08-21T03:24:48Z",
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
                 "stars": 1457
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-18T11:04:25Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 583
+                "stars": 584
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-02-14T23:22:39Z",
                 "owner": "GaryOderNichts",
                 "repo": "moonlight-wiiu",
-                "stars": 210
+                "stars": 211
               }
             }
           ],
@@ -290,7 +290,7 @@
             "last_commit": "2026-05-09T11:56:02Z",
             "owner": "joleuger",
             "repo": "vuinputd",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9910
+            "stars": 9912
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5501
+            "stars": 5503
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2025-03-03T18:37:21Z",
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 890
+            "stars": 891
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:19:01.691Z",
+    "last_updated": "2026-08-21T23:16:32.537Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
     "original_repository_sha": "a1cdf06ea42b1f22cf7c7898da74fbe40ed1598a",
