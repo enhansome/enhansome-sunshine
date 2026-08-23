@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T03:26:12Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18359
+                "stars": 18377
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 6993
+                "stars": 6996
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-06T03:28:36Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1655
+                "stars": 1656
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-10-09T02:56:42Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1638
+                "stars": 1640
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-18T11:04:25Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 584
+                "stars": 585
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-18T15:38:28Z",
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-19T16:03:42Z",
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 251
+                "stars": 252
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-02-14T23:22:39Z",
                 "owner": "GaryOderNichts",
                 "repo": "moonlight-wiiu",
-                "stars": 211
+                "stars": 213
               }
             }
           ],
@@ -215,7 +215,7 @@
             "last_commit": "2026-05-10T13:50:36Z",
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 956
+            "stars": 960
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9915
+            "stars": 9923
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5505
+            "stars": 5509
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2025-03-03T18:37:21Z",
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 891
+            "stars": 892
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:13:29.952Z",
+    "last_updated": "2026-08-23T23:13:52.169Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
     "original_repository_sha": "a1cdf06ea42b1f22cf7c7898da74fbe40ed1598a",
