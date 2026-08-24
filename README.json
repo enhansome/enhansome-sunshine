@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T03:26:12Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18385
+                "stars": 18386
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 6998
+                "stars": 7000
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-06T03:28:36Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1656
+                "stars": 1657
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-22T02:00:19Z",
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1459
+                "stars": 1460
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-11-27T13:43:24Z",
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 807
+                "stars": 808
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 379709801,
                 "language": "C++",
-                "last_commit": "2026-08-18T11:04:25Z",
+                "last_commit": "2026-08-24T15:56:07Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
                 "stars": 585
@@ -215,7 +215,7 @@
             "last_commit": "2026-05-10T13:50:36Z",
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 960
+            "stars": 959
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-24T15:36:01Z",
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9931
+            "stars": 9936
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-07-30T00:01:32Z",
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:25.920Z",
+    "last_updated": "2026-08-24T23:16:26.801Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
     "original_repository_sha": "a1cdf06ea42b1f22cf7c7898da74fbe40ed1598a",
