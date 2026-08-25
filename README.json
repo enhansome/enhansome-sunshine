@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T03:26:12Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18386
+                "stars": 18387
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7000
+                "stars": 7002
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-07-26T19:39:26Z",
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1611
+                "stars": 1612
               }
             },
             {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9936
+            "stars": 9939
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-19T08:22:31Z",
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 942
+            "stars": 943
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:16:26.801Z",
+    "last_updated": "2026-08-25T06:17:43.127Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
     "original_repository_sha": "a1cdf06ea42b1f22cf7c7898da74fbe40ed1598a",

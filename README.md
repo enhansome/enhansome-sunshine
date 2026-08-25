@@ -25,15 +25,15 @@
 
 ### ✳️ Official Moonlight Clients
 
-* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,386 | 🐛 556 | 🌐 C++ | 📅 2026-08-19 - Official QT client.
-* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,000 | 🐛 397 | 🌐 C | 📅 2026-08-11 - Official Android client.
+* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,387 | 🐛 558 | 🌐 C++ | 📅 2026-08-19 - Official QT client.
+* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,002 | 🐛 397 | 🌐 C | 📅 2026-08-11 - Official Android client.
 * [Embedded](https://github.com/moonlight-stream/moonlight-embedded) ⭐ 1,657 | 🐛 121 | 🌐 C | 📅 2026-06-06 - Official Embedded client.
 * [iOS](https://github.com/moonlight-stream/moonlight-ios) ⭐ 1,640 | 🐛 173 | 🌐 C | 📅 2025-10-09 - Official iOS client.
 * [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) ⚠️ Archived - Official ChromeOS client.
 
 ### ✴️ Third-Party Moonlight Clients
 
-* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,611 | 🐛 90 | 🌐 C | 📅 2026-07-26 - Moonlight client for Nintendo Switch.
+* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,612 | 🐛 90 | 🌐 C | 📅 2026-07-26 - Moonlight client for Nintendo Switch.
 * [LG webOS TV](https://github.com/mariotaku/moonlight-tv) ⭐ 1,460 | 🐛 71 | 🌐 C | 📅 2026-08-22 - Moonlight client for LG webOS TV.
 * [PS Vita](https://github.com/xyzz/vita-moonlight) ⭐ 808 | 🐛 76 | 🌐 C | 📅 2025-11-27 - Moonlight client for PS Vita.
 * [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) ⭐ 585 | 🐛 38 | 🌐 C++ | 📅 2026-08-24 - Moonlight client for UWP/Xbox (One/Series).
@@ -60,14 +60,14 @@
 ## 💠 Frontends
 
 * [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,819 | 🐛 710 | 🌐 C# | 📅 2026-08-21 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,820 | 🐛 710 | 🌐 C# | 📅 2026-08-21 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 * [Steam](https://store.steampowered.com) - The ultimate destination for playing, discussing, and creating games.
 
 ## 💻 Virtual Displays
 
-* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 9,936 | 🐛 201 | 🌐 C++ | 📅 2026-06-22 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 9,939 | 🐛 201 | 🌐 C++ | 📅 2026-06-22 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 * [parsec-vdd](https://github.com/nomi-san/parsec-vdd) ⭐ 5,511 | 🐛 7 | 🌐 C# | 📅 2026-05-15 - Standalone Parsec Virtual Display.
-* [evdi](https://github.com/DisplayLink/evdi) ⭐ 942 | 🐛 101 | 🌐 C | 📅 2026-08-19 - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
+* [evdi](https://github.com/DisplayLink/evdi) ⭐ 943 | 🐛 101 | 🌐 C | 📅 2026-08-19 - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
 * [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) ⭐ 892 | 🐛 19 | 🌐 Rust | 📅 2025-03-03 - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.
 * [VirtualDisplayDriver\_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) ⭐ 127 | 🐛 4 | 🌐 AutoHotkey | 📅 2025-04-03 - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
 * [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) command-line utility that creates a headless virtual display, accessible over the network via VNC.
@@ -98,4 +98,4 @@ when contributing to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
