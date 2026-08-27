@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T06:32:33Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18411
+                "stars": 18417
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7018
+                "stars": 7020
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-11-27T13:43:24Z",
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 808
+                "stars": 809
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-26T21:40:38Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 585
+                "stars": 586
               }
             },
             {
@@ -275,7 +275,7 @@
             "last_commit": "2025-12-06T15:48:06Z",
             "owner": "JMTK",
             "repo": "SunshineGameFinder",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2025-01-27T03:18:37Z",
             "owner": "NeonLightning",
             "repo": "NeonSunshine",
-            "stars": 18
+            "stars": 19
           }
         }
       ],
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9953
+            "stars": 9955
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5513
+            "stars": 5514
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2025-04-03T21:58:13Z",
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
-            "stars": 127
+            "stars": 128
           }
         }
       ],
@@ -475,9 +475,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:10:05.834Z",
-    "original_repository": "LizardByte/awesome-sunshine",
-    "original_repository_id": 843560793,
+    "last_updated": "2026-08-27T12:04:27.837Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 843560793,
+      "language": "JavaScript",
+      "last_commit": "2026-08-26T20:34:13Z",
+      "owner": "LizardByte",
+      "repo": "awesome-sunshine",
+      "stars": 512
+    },
     "original_repository_sha": "52616f311e7863aa13bce9fb5d8470915c14383d",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
