@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 131449222,
                 "language": "C++",
-                "last_commit": "2026-08-25T19:57:23Z",
+                "last_commit": "2026-08-26T06:32:33Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18399
+                "stars": 18411
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7008
+                "stars": 7018
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-10-09T02:56:42Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1641
+                "stars": 1643
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-07-26T19:39:26Z",
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1613
+                "stars": 1615
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-22T02:00:19Z",
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1462
+                "stars": 1463
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 379709801,
                 "language": "C++",
-                "last_commit": "2026-08-24T15:56:07Z",
+                "last_commit": "2026-08-26T21:40:38Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
                 "stars": 585
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-19T16:03:42Z",
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 253
+                "stars": 255
               }
             },
             {
@@ -215,7 +215,7 @@
             "last_commit": "2026-05-10T13:50:36Z",
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 960
+            "stars": 962
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9941
+            "stars": 9953
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-05-15T07:15:33Z",
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5511
+            "stars": 5513
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2025-03-03T18:37:21Z",
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 892
+            "stars": 893
           }
         },
         {
@@ -419,7 +419,7 @@
             "archived": false,
             "id": 865520533,
             "language": "Shell",
-            "last_commit": "2026-07-30T00:01:32Z",
+            "last_commit": "2026-08-26T17:33:54Z",
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
             "stars": 48
@@ -437,7 +437,7 @@
             "last_commit": "2025-03-12T19:46:18Z",
             "owner": "FrogTheFrog",
             "repo": "gsync-toggle",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -475,10 +475,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:18:37.104Z",
+    "last_updated": "2026-08-27T04:10:05.834Z",
     "original_repository": "LizardByte/awesome-sunshine",
     "original_repository_id": 843560793,
-    "original_repository_sha": "a1cdf06ea42b1f22cf7c7898da74fbe40ed1598a",
+    "original_repository_sha": "52616f311e7863aa13bce9fb5d8470915c14383d",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
