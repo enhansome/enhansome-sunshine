@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T06:32:33Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18417
-              }
+                "stars": 18428
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-11T15:51:30Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7020
-              }
+                "stars": 7023
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
                 "stars": 1657
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
                 "stars": 1643
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "moonlight-stream",
                 "repo": "moonlight-chrome",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             }
           ],
           "description": null,
@@ -99,8 +104,9 @@
                 "last_commit": "2026-07-26T19:39:26Z",
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1615
-              }
+                "stars": 1616
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
                 "stars": 1463
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
                 "stars": 809
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 379709801,
                 "language": "C++",
-                "last_commit": "2026-08-26T21:40:38Z",
+                "last_commit": "2026-08-27T16:13:26Z",
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
                 "stars": 586
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -174,8 +184,9 @@
                 "last_commit": "2026-08-19T16:03:42Z",
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 255
-              }
+                "stars": 257
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "GaryOderNichts",
                 "repo": "moonlight-wiiu",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
             }
           ],
           "description": null,
@@ -215,8 +227,9 @@
             "last_commit": "2026-05-10T13:50:36Z",
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 962
-          }
+            "stars": 963
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -231,7 +244,8 @@
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -246,7 +260,8 @@
             "owner": "designer-living",
             "repo": "sunshine_utils",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -261,7 +276,8 @@
             "owner": "LizardByte",
             "repo": "GSMS",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -276,7 +292,8 @@
             "owner": "JMTK",
             "repo": "SunshineGameFinder",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -291,7 +308,8 @@
             "owner": "joleuger",
             "repo": "vuinputd",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -306,7 +324,8 @@
             "owner": "NeonLightning",
             "repo": "NeonSunshine",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         }
       ],
       "title": "🔧 Tools"
@@ -326,8 +345,9 @@
             "last_commit": "2026-06-22T22:00:18Z",
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9955
-          }
+            "stars": 9959
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -342,7 +362,8 @@
             "owner": "nomi-san",
             "repo": "parsec-vdd",
             "stars": 5514
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -357,7 +378,8 @@
             "owner": "DisplayLink",
             "repo": "evdi",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -372,7 +394,8 @@
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
             "stars": 893
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -383,11 +406,12 @@
             "archived": false,
             "id": 853530648,
             "language": "AutoHotkey",
-            "last_commit": "2025-04-03T21:58:13Z",
+            "last_commit": "2026-08-27T17:03:34Z",
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         }
       ],
       "title": "💻 Virtual Displays"
@@ -408,7 +432,8 @@
             "owner": "fehbari",
             "repo": "sunshine-scripts",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -423,7 +448,8 @@
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -438,7 +464,8 @@
             "owner": "FrogTheFrog",
             "repo": "gsync-toggle",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -453,7 +480,8 @@
             "owner": "FrogTheFrog",
             "repo": "frl-toggle",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         },
         {
           "node_type": "item",
@@ -468,14 +496,15 @@
             "owner": "xanderfrangos",
             "repo": "vsync-toggle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
         }
       ],
       "title": "📜 Scripts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:27.837Z",
+    "last_updated": "2026-08-28T06:27:00.741Z",
     "original_repository_info": {
       "archived": false,
       "id": 843560793,
@@ -483,7 +512,7 @@
       "last_commit": "2026-08-26T20:34:13Z",
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 512
+      "stars": 513
     },
     "original_repository_sha": "52616f311e7863aa13bce9fb5d8470915c14383d",
     "enhanced_repository": "enhansome/enhansome-sunshine",
