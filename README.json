@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+                "homepage": null,
                 "id": 131449222,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T06:32:33Z",
+                "open_issues": 558,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18428
+                "stars": 18439,
+                "topics": [
+                  "gamestream",
+                  "linux-app",
+                  "macos-app",
+                  "moonlight",
+                  "nvidia",
+                  "qt",
+                  "sdl2",
+                  "steam-link",
+                  "windows-app"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -28,12 +43,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameStream client for Android",
+                "homepage": null,
                 "id": 12989790,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T15:51:30Z",
+                "open_issues": 397,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7023
+                "stars": 7026,
+                "topics": [
+                  "android-app",
+                  "android-tv-apps",
+                  "gamestream",
+                  "moonlight",
+                  "nvidia"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -44,12 +70,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gamestream client for embedded systems",
+                "homepage": "https://github.com/moonlight-stream/moonlight-embedded/wiki",
                 "id": 15691240,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-06T03:28:36Z",
+                "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1657
+                "stars": 1657,
+                "topics": [
+                  "gamestream",
+                  "moonlight"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -60,12 +94,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameStream client for iOS/tvOS",
+                "homepage": null,
                 "id": 16018083,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-09T02:56:42Z",
+                "open_issues": 173,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1643
+                "stars": 1643,
+                "topics": [
+                  "gamestream",
+                  "ios-app",
+                  "moonlight",
+                  "nvidia",
+                  "tvos-app"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -76,12 +121,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GameStream client for ChromeOS",
+                "homepage": null,
                 "id": 51626956,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-13T03:57:47Z",
+                "open_issues": 30,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-chrome",
-                "stars": 813
+                "stars": 813,
+                "topics": [
+                  "chrome-app",
+                  "chromeos",
+                  "gamestream",
+                  "moonlight",
+                  "nacl",
+                  "nvidia",
+                  "pnacl"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             }
@@ -99,12 +157,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moonlight port for Nintendo Switch",
+                "homepage": null,
                 "id": 375381453,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-26T19:39:26Z",
+                "open_issues": 90,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1616
+                "stars": 1617,
+                "topics": [
+                  "homebrew",
+                  "moonlight",
+                  "nintendo-switch",
+                  "nvidia",
+                  "shield"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -115,12 +184,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight NVIDIA GameStream Client, for LG webOS TV and embedded devices like Raspberry Pi",
+                "homepage": null,
                 "id": 325637626,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T02:00:19Z",
+                "open_issues": 71,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1463
+                "stars": 1463,
+                "topics": [
+                  "lg-webos",
+                  "moonlight-client",
+                  "moonlight-embedded",
+                  "nvidia-gamestream",
+                  "raspberry-pi",
+                  "sdl2",
+                  "webos",
+                  "webos-application",
+                  "webos-homebrew",
+                  "webos-tv"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -131,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA Gamestream client for PlayStation Vita, based on moonlight-embedded",
+                "homepage": null,
                 "id": 65733661,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-27T13:43:24Z",
+                "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 809
+                "stars": 809,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -147,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moonlight port for Xbox One/Series Family of Console",
+                "homepage": null,
                 "id": 379709801,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T16:13:26Z",
+                "open_issues": 38,
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 586
+                "stars": 586,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -163,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gamestream client for the New 3DS",
+                "homepage": "https://github.com/moonlight-stream/moonlight-embedded/wiki",
                 "id": 706378263,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-18T15:38:28Z",
+                "open_issues": 46,
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -179,12 +279,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameStream client for Samsung Smart TV's running Tizen OS",
+                "homepage": null,
                 "id": 713545799,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T16:03:42Z",
+                "open_issues": 26,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "emscripten",
+                  "game-streaming",
+                  "gamestream",
+                  "moonlight",
+                  "samsung",
+                  "samsung-tv",
+                  "smart-tv",
+                  "tizen",
+                  "tizen-app",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             },
@@ -195,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moonlight Wii U port",
+                "homepage": null,
                 "id": 353501945,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-14T23:22:39Z",
+                "open_issues": 43,
                 "owner": "GaryOderNichts",
                 "repo": "moonlight-wiiu",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
             }
@@ -222,12 +344,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅",
+            "homepage": "https://cloudypad.gg",
             "id": 715131551,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-10T13:50:36Z",
+            "open_issues": 32,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 963
+            "stars": 964,
+            "topics": [
+              "aws",
+              "cloud",
+              "cloud-gaming",
+              "game-stream",
+              "game-streaming",
+              "game-streaming-server",
+              "gaming",
+              "geforce",
+              "geforce-now",
+              "geforcenow",
+              "moonlight",
+              "remote-desktop"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -238,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import games from Steam, Lutris, Heroic, Bottles, Faugus, Ryubing, RetroArch, and Eden into Sunshine, add SteamGridDB covers, and stream headlessly from an isolated virtual display.",
+            "homepage": null,
             "id": 819294191,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T15:36:01Z",
+            "open_issues": 6,
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -254,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 636740175,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-21T12:51:21Z",
+            "open_issues": 5,
             "owner": "designer-living",
             "repo": "sunshine_utils",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -270,12 +420,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gamestream migration service for Sunshine",
+            "homepage": null,
             "id": 581905017,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-17T00:05:34Z",
+            "open_issues": 2,
             "owner": "LizardByte",
             "repo": "GSMS",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "game-stream",
+              "geforce-experience",
+              "moonlight",
+              "python",
+              "replicator-release-notifications",
+              "sunshine"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -286,12 +448,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For use with the Sunshine streaming tool, searches your computer for various common game install paths",
+            "homepage": "https://jmtk.co",
             "id": 618901342,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-06T15:48:06Z",
+            "open_issues": 16,
             "owner": "JMTK",
             "repo": "SunshineGameFinder",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cloudygamer",
+              "game",
+              "hacktoberfest",
+              "moonlight",
+              "scraper",
+              "sunshine"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -302,12 +476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "container-safe mediation daemon for /dev/uinput",
+            "homepage": null,
             "id": 1082204087,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-09T11:56:02Z",
+            "open_issues": 8,
             "owner": "joleuger",
             "repo": "vuinputd",
-            "stars": 32
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -318,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Program to add games to a json in sunshine's app.json format.",
+            "homepage": null,
             "id": 921372879,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-27T03:18:37Z",
+            "open_issues": 0,
             "owner": "NeonLightning",
             "repo": "NeonSunshine",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         }
@@ -340,12 +524,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.",
+            "homepage": "https://pyrosoft.pro/",
             "id": 704889202,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-22T22:00:18Z",
+            "open_issues": 201,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 9959
+            "stars": 9964,
+            "topics": [
+              "display",
+              "display-driver",
+              "displays",
+              "driver",
+              "drivers",
+              "virtual"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -356,12 +552,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Perfect virtual display for game streaming",
+            "homepage": null,
             "id": 562007145,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-15T07:15:33Z",
+            "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5514
+            "stars": 5515,
+            "topics": [
+              "headless-display",
+              "idd",
+              "iddcx",
+              "indirect-display",
+              "parsec",
+              "parsec-client",
+              "parsec-cloud",
+              "parsec-vdd",
+              "vdd",
+              "virtual-display"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -372,12 +584,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible Virtual Display Interface",
+            "homepage": null,
             "id": 40113584,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-19T08:22:31Z",
+            "open_issues": 101,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 943
+            "stars": 944,
+            "topics": [
+              "display",
+              "displaylink",
+              "drm",
+              "linux-kernel",
+              "screen",
+              "video",
+              "virtual"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -388,12 +613,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc",
+            "homepage": null,
             "id": 686128738,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-03-03T18:37:21Z",
+            "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 893
+            "stars": 894,
+            "topics": [
+              "desktop",
+              "display",
+              "driver",
+              "dummy",
+              "monitor",
+              "obs",
+              "oculus",
+              "privacy",
+              "private",
+              "remote",
+              "rust",
+              "screen",
+              "virtual",
+              "virtual-desktop",
+              "virtual-monitor",
+              "virtual-reality",
+              "vr",
+              "windows",
+              "windows-10",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -404,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual Display Driver: Wizard is a GUI tool that can integrate with other software such as Sunshine for efficient manipulation (Install / Uninstall / Reload / Configure) of Indirect Display Driver Sample (IddSample) implementations like the HDR capable Virtual Display Driver from itsmikethetech that works on Windows 10/11.",
+            "homepage": null,
             "id": 853530648,
             "language": "AutoHotkey",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T17:03:34Z",
+            "open_issues": 4,
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         }
@@ -426,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for Sunshine game stream host.",
+            "homepage": null,
             "id": 831894109,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-20T01:08:46Z",
+            "open_issues": 5,
             "owner": "fehbari",
             "repo": "sunshine-scripts",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -442,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wayland-compatible automation for remote streaming using a dummy plug on Linux",
+            "homepage": null,
             "id": 865520533,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:33:54Z",
+            "open_issues": 0,
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
-            "stars": 48
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -458,12 +724,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App for Windows to toggle G-Sync via command line",
+            "homepage": null,
             "id": 677776362,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-12T19:46:18Z",
+            "open_issues": 0,
             "owner": "FrogTheFrog",
             "repo": "gsync-toggle",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "gsync",
+              "toggle",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -474,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App for Windows to toggle Nvidia's Frame Rate Limiter (FRL) via command line ",
+            "homepage": null,
             "id": 691277869,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-21T11:13:39Z",
+            "open_issues": 1,
             "owner": "FrogTheFrog",
             "repo": "frl-toggle",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -490,12 +770,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App for Windows to toggle VSync via command line. (NVIDIA GPUs only)",
+            "homepage": null,
             "id": 734488681,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-21T20:24:01Z",
+            "open_issues": 0,
             "owner": "xanderfrangos",
             "repo": "vsync-toggle",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "toggle",
+              "vsync",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         }
@@ -504,15 +793,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:27:00.741Z",
+    "last_updated": "2026-08-29T03:59:04.232Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
+      "homepage": null,
       "id": 843560793,
       "language": "JavaScript",
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-26T20:34:13Z",
+      "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 513
+      "stars": 513,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "52616f311e7863aa13bce9fb5d8470915c14383d",
     "enhanced_repository": "enhansome/enhansome-sunshine",
