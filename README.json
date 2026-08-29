@@ -21,7 +21,7 @@
                 "open_issues": 558,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18439,
+                "stars": 18440,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 397,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7026,
+                "stars": 7027,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -622,7 +622,7 @@
             "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "desktop",
               "display",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:59:04.232Z",
+    "last_updated": "2026-08-29T04:45:03.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
