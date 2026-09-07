@@ -26,20 +26,20 @@
 
 ### ✳️ Official Moonlight Clients
 
-* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,537 | 🐛 558 | 🌐 C++ | 📅 2026-09-05 - Official QT client.
-* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,062 | 🐛 387 | 🌐 C | 📅 2026-09-05 - Official Android client.
+* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,547 | 🐛 557 | 🌐 C++ | 📅 2026-09-06 - Official QT client.
+* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,070 | 🐛 387 | 🌐 C | 📅 2026-09-05 - Official Android client.
 * [Embedded](https://github.com/moonlight-stream/moonlight-embedded) ⭐ 1,658 | 🐛 121 | 🌐 C | 📅 2026-06-06 - Official Embedded client.
 * [iOS](https://github.com/moonlight-stream/moonlight-ios) ⭐ 1,654 | 🐛 172 | 🌐 C | 📅 2025-10-09 - Official iOS client.
 * [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) ⚠️ Archived - Official ChromeOS client.
 
 ### ✴️ Third-Party Moonlight Clients
 
-* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,626 | 🐛 90 | 🌐 C | 📅 2026-07-26 - Moonlight client for Nintendo Switch.
-* [LG webOS TV](https://github.com/mariotaku/moonlight-tv) ⭐ 1,468 | 🐛 76 | 🌐 C | 📅 2026-08-22 - Moonlight client for LG webOS TV.
+* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,628 | 🐛 90 | 🌐 C | 📅 2026-07-26 - Moonlight client for Nintendo Switch.
+* [LG webOS TV](https://github.com/mariotaku/moonlight-tv) ⭐ 1,468 | 🐛 77 | 🌐 C | 📅 2026-08-22 - Moonlight client for LG webOS TV.
 * [PS Vita](https://github.com/xyzz/vita-moonlight) ⭐ 811 | 🐛 76 | 🌐 C | 📅 2025-11-27 - Moonlight client for PS Vita.
 * [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) ⭐ 591 | 🐛 41 | 🌐 C++ | 📅 2026-08-27 - Moonlight client for UWP/Xbox (One/Series).
-* [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) ⭐ 305 | 🐛 47 | 🌐 C++ | 📅 2026-08-31 - Moonlight client for New Nintendo 3DS.
-* [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) ⭐ 264 | 🐛 28 | 🌐 C | 📅 2026-08-19 - Moonlight client for Samsung Tizen TV.
+* [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) ⭐ 306 | 🐛 47 | 🌐 C++ | 📅 2026-08-31 - Moonlight client for New Nintendo 3DS.
+* [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) ⭐ 266 | 🐛 28 | 🌐 C | 📅 2026-08-19 - Moonlight client for Samsung Tizen TV.
 * [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) ⭐ 213 | 🐛 44 | 🌐 C | 📅 2026-02-14 - Moonlight client for Nintendo Wii U.
 
 ## 🔧 Tools
@@ -61,13 +61,13 @@
 ## 💠 Frontends
 
 * [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,897 | 🐛 712 | 🌐 C# | 📅 2026-09-02 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,905 | 🐛 712 | 🌐 C# | 📅 2026-09-02 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 * [Steam](https://store.steampowered.com) - The ultimate destination for playing, discussing, and creating games.
 
 ## 💻 Virtual Displays
 
-* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 10,040 | 🐛 204 | 🌐 C++ | 📅 2026-06-22 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
-* [parsec-vdd](https://github.com/nomi-san/parsec-vdd) ⭐ 5,528 | 🐛 7 | 🌐 C# | 📅 2026-05-15 - Standalone Parsec Virtual Display.
+* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 10,044 | 🐛 204 | 🌐 C++ | 📅 2026-06-22 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+* [parsec-vdd](https://github.com/nomi-san/parsec-vdd) ⭐ 5,532 | 🐛 7 | 🌐 C# | 📅 2026-05-15 - Standalone Parsec Virtual Display.
 * [evdi](https://github.com/DisplayLink/evdi) ⭐ 943 | 🐛 102 | 🌐 C | 📅 2026-08-19 - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
 * [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) ⭐ 900 | 🐛 19 | 🌐 Rust | 📅 2025-03-03 - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.
 * [VirtualDisplayDriver\_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) ⭐ 129 | 🐛 4 | 🌐 AutoHotkey | 📅 2026-08-27 - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
@@ -75,7 +75,7 @@
 
 ## 🎮 Virtual Gamepads
 
-* [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) ⭐ 29 | 🐛 14 | 🌐 C++ | 📅 2026-09-05 - User-mode virtual gamepads for Windows. Adds more gamepad types to Windows, such as Xbox One|Series, DualSense, Nintendo Switch Pro, and more to come in the future.
+* [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) ⭐ 29 | 🐛 13 | 🌐 C++ | 📅 2026-09-05 - User-mode virtual gamepads for Windows. Adds more gamepad types to Windows, such as Xbox One|Series, DualSense, Nintendo Switch Pro, and more to come in the future.
 
 ## 📜 Scripts
 
@@ -103,4 +103,4 @@ when contributing to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
