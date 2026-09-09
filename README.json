@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T05:07:11Z",
-                "open_issues": 557,
+                "open_issues": 559,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18556,
+                "stars": 18568,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 387,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7076,
+                "stars": 7079,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1658,
+                "stars": 1659,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -166,7 +166,7 @@
                 "open_issues": 89,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -193,7 +193,7 @@
                 "open_issues": 76,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1468,
+                "stars": 1469,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -284,8 +284,8 @@
                 "id": 713545799,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T14:12:39Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-08T13:24:19Z",
+                "open_issues": 14,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
                 "stars": 267,
@@ -353,7 +353,7 @@
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 967,
+            "stars": 969,
             "topics": [
               "aws",
               "cloud",
@@ -485,7 +485,7 @@
             "open_issues": 7,
             "owner": "joleuger",
             "repo": "vuinputd",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -530,10 +530,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-06-22T22:00:18Z",
-            "open_issues": 204,
+            "open_issues": 203,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10048,
+            "stars": 10056,
             "topics": [
               "display",
               "display-driver",
@@ -708,7 +708,7 @@
             "id": 865520533,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:25:13Z",
+            "last_commit": "2026-09-08T19:26:01Z",
             "open_issues": 0,
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:50:43.967Z",
+    "last_updated": "2026-09-09T00:56:16.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,17 +801,17 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-07T19:52:15Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-08T12:27:00Z",
+      "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 521,
+      "stars": 523,
       "topics": [
         "awesome",
         "awesome-list"
       ]
     },
-    "original_repository_sha": "5176b091689cbc730782b52b7ec58706bc89995f",
+    "original_repository_sha": "e2f8e2b95eec04e94f8b856ee01e9ef77974253d",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
