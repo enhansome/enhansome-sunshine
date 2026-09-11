@@ -21,7 +21,7 @@
                 "open_issues": 561,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18584,
+                "stars": 18593,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T04:51:38Z",
-                "open_issues": 387,
+                "open_issues": 388,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7085,
+                "stars": 7088,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -103,7 +103,7 @@
                 "open_issues": 172,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1654,
+                "stars": 1655,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -166,7 +166,7 @@
                 "open_issues": 89,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -193,7 +193,7 @@
                 "open_issues": 77,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1470,
+                "stars": 1473,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -267,7 +267,7 @@
                 "open_issues": 47,
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
-                "stars": 307,
+                "stars": 308,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -288,7 +288,7 @@
                 "open_issues": 14,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -353,7 +353,7 @@
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 970,
+            "stars": 973,
             "topics": [
               "aws",
               "cloud",
@@ -387,7 +387,7 @@
             "open_issues": 4,
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -533,7 +533,7 @@
             "open_issues": 203,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10064,
+            "stars": 10074,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5536,
+            "stars": 5537,
             "topics": [
               "headless-display",
               "idd",
@@ -622,7 +622,7 @@
             "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "desktop",
               "display",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:44:36.816Z",
+    "last_updated": "2026-09-11T00:44:05.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -805,7 +805,7 @@
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 526,
+      "stars": 527,
       "topics": [
         "awesome",
         "awesome-list"
