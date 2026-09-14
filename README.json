@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T05:42:57Z",
-                "open_issues": 561,
+                "open_issues": 562,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18611,
+                "stars": 18617,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,16 +49,43 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T19:28:26Z",
-                "open_issues": 388,
+                "open_issues": 389,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7095,
+                "stars": 7104,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
                   "gamestream",
                   "moonlight",
                   "nvidia"
+                ]
+              },
+              "first_seen": "2026-08-28T06:27:00.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": "Official iOS client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GameStream client for iOS/tvOS",
+                "homepage": null,
+                "id": 16018083,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2025-10-09T02:56:42Z",
+                "open_issues": 172,
+                "owner": "moonlight-stream",
+                "repo": "moonlight-ios",
+                "stars": 1659,
+                "topics": [
+                  "gamestream",
+                  "ios-app",
+                  "moonlight",
+                  "nvidia",
+                  "tvos-app"
                 ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -83,33 +110,6 @@
                 "topics": [
                   "gamestream",
                   "moonlight"
-                ]
-              },
-              "first_seen": "2026-08-28T06:27:00.741Z"
-            },
-            {
-              "node_type": "item",
-              "title": "iOS",
-              "description": "Official iOS client.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "GameStream client for iOS/tvOS",
-                "homepage": null,
-                "id": 16018083,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2025-10-09T02:56:42Z",
-                "open_issues": 172,
-                "owner": "moonlight-stream",
-                "repo": "moonlight-ios",
-                "stars": 1657,
-                "topics": [
-                  "gamestream",
-                  "ios-app",
-                  "moonlight",
-                  "nvidia",
-                  "tvos-app"
                 ]
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -166,7 +166,7 @@
                 "open_issues": 89,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1633,
+                "stars": 1632,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -190,10 +190,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T03:37:08Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1474,
+                "stars": 1476,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 811,
+                "stars": 813,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -246,7 +246,7 @@
                 "open_issues": 40,
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 591,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -285,7 +285,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T09:53:48Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
                 "stars": 270,
@@ -533,7 +533,7 @@
             "open_issues": 203,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10090,
+            "stars": 10097,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5540,
+            "stars": 5542,
             "topics": [
               "headless-display",
               "idd",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:31:09.696Z",
+    "last_updated": "2026-09-14T00:33:52.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,7 +801,7 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-09T12:57:24Z",
+      "last_commit": "2026-09-13T18:27:38Z",
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
@@ -811,7 +811,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "7ccc45a5b3f69e54ff536c1904499c57f01e94d4",
+    "original_repository_sha": "8b56207077e4a2c0242b2ee78f169e705999d2be",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
