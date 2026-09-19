@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T06:44:54Z",
+                "last_commit": "2026-09-18T04:14:02Z",
                 "open_issues": 562,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18680,
+                "stars": 18695,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T19:28:26Z",
-                "open_issues": 393,
+                "open_issues": 394,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7133,
+                "stars": 7136,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -76,10 +76,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2025-10-09T02:56:42Z",
-                "open_issues": 172,
+                "open_issues": 173,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1665,
+                "stars": 1666,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -353,7 +353,7 @@
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 975,
+            "stars": 976,
             "topics": [
               "aws",
               "cloud",
@@ -533,7 +533,7 @@
             "open_issues": 205,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10134,
+            "stars": 10141,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5551,
+            "stars": 5552,
             "topics": [
               "headless-display",
               "idd",
@@ -593,7 +593,7 @@
             "open_issues": 103,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "display",
               "displaylink",
@@ -691,7 +691,7 @@
             "open_issues": 5,
             "owner": "fehbari",
             "repo": "sunshine-scripts",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -779,7 +779,7 @@
             "open_issues": 0,
             "owner": "xanderfrangos",
             "repo": "vsync-toggle",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "toggle",
               "vsync",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:55:31.849Z",
+    "last_updated": "2026-09-19T00:51:30.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
