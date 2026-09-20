@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-18T04:14:02Z",
-                "open_issues": 562,
+                "open_issues": 561,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18695,
+                "stars": 18699,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 394,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7136,
+                "stars": 7140,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 173,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1666,
+                "stars": 1665,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -166,7 +166,7 @@
                 "open_issues": 89,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1637,
+                "stars": 1638,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -193,7 +193,7 @@
                 "open_issues": 79,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1477,
+                "stars": 1479,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -285,7 +285,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-15T13:36:14Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
                 "stars": 273,
@@ -529,11 +529,11 @@
             "id": 704889202,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-06-22T22:00:18Z",
-            "open_issues": 205,
+            "last_commit": "2026-09-19T11:36:47Z",
+            "open_issues": 206,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10141,
+            "stars": 10151,
             "topics": [
               "display",
               "display-driver",
@@ -593,7 +593,7 @@
             "open_issues": 103,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "display",
               "displaylink",
@@ -622,7 +622,7 @@
             "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 901,
+            "stars": 900,
             "topics": [
               "desktop",
               "display",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:51:30.845Z",
+    "last_updated": "2026-09-20T00:31:52.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,17 +801,18 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-14T13:07:57Z",
+      "last_commit": "2026-09-19T23:36:23Z",
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 529,
+      "stars": 531,
       "topics": [
         "awesome",
-        "awesome-list"
+        "awesome-list",
+        "nodejs"
       ]
     },
-    "original_repository_sha": "adae03668692356097d308bb62b16fe53b432a13",
+    "original_repository_sha": "829f6367e10abf7e17eee5fd1f7a53904f1515f8",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
