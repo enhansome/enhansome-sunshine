@@ -21,7 +21,7 @@
                 "open_issues": 567,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18852,
+                "stars": 18860,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T15:21:02Z",
-                "open_issues": 398,
+                "open_issues": 399,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7196,
+                "stars": 7203,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 176,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1676,
+                "stars": 1677,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -106,7 +106,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -353,7 +353,7 @@
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "aws",
               "cloud",
@@ -485,7 +485,7 @@
             "open_issues": 7,
             "owner": "joleuger",
             "repo": "vuinputd",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -533,7 +533,7 @@
             "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10237,
+            "stars": 10241,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5597,
+            "stars": 5612,
             "topics": [
               "headless-display",
               "idd",
@@ -589,11 +589,11 @@
             "id": 40113584,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-15T08:12:00Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-02T14:30:15Z",
+            "open_issues": 100,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "display",
               "displaylink",
@@ -664,7 +664,7 @@
             "open_issues": 4,
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -698,6 +698,27 @@
         },
         {
           "node_type": "item",
+          "title": "Dummy Plug Automation",
+          "description": "Automation for remote streaming using a dummy plug on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wayland-compatible automation for remote streaming using a dummy plug on Linux",
+            "homepage": null,
+            "id": 865520533,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-09T15:38:46Z",
+            "open_issues": 0,
+            "owner": "XenHat",
+            "repo": "dummy-plug-automation",
+            "stars": 48,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
+        },
+        {
+          "node_type": "item",
           "title": "GsyncToggle",
           "description": "Nvidia's toggle G-Sync.",
           "children": [],
@@ -718,27 +739,6 @@
               "toggle",
               "windows"
             ]
-          },
-          "first_seen": "2026-08-28T06:27:00.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dummy Plug Automation",
-          "description": "Automation for remote streaming using a dummy plug on Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Wayland-compatible automation for remote streaming using a dummy plug on Linux",
-            "homepage": null,
-            "id": 865520533,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-09T15:38:46Z",
-            "open_issues": 0,
-            "owner": "XenHat",
-            "repo": "dummy-plug-automation",
-            "stars": 47,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:54:58.529Z",
+    "last_updated": "2026-10-03T01:36:22.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
