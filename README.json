@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T15:21:03Z",
-                "open_issues": 567,
+                "last_commit": "2026-10-03T04:10:51Z",
+                "open_issues": 566,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18860,
+                "stars": 18863,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 399,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7203,
+                "stars": 7204,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 176,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -166,7 +166,7 @@
                 "open_issues": 90,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1654,
+                "stars": 1655,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -533,7 +533,7 @@
             "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10241,
+            "stars": 10242,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5612,
+            "stars": 5613,
             "topics": [
               "headless-display",
               "idd",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:36:22.853Z",
+    "last_updated": "2026-10-03T05:15:25.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,8 +801,8 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-28T12:59:14Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-03T04:32:28Z",
+      "open_issues": 3,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
       "stars": 536,
