@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T05:43:30Z",
+                "last_commit": "2026-10-06T05:43:02Z",
                 "open_issues": 559,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18933,
+                "stars": 18944,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -48,11 +48,11 @@
                 "id": 12989790,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T15:21:02Z",
+                "last_commit": "2026-10-06T08:51:24Z",
                 "open_issues": 402,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7229,
+                "stars": 7232,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 176,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1681,
+                "stars": 1682,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 819,
+                "stars": 818,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -284,7 +284,7 @@
                 "id": 713545799,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T17:12:57Z",
+                "last_commit": "2026-10-06T10:27:53Z",
                 "open_issues": 11,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
@@ -533,7 +533,7 @@
             "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10265,
+            "stars": 10266,
             "topics": [
               "display",
               "display-driver",
@@ -558,10 +558,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-05-15T07:15:33Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5624,
+            "stars": 5627,
             "topics": [
               "headless-display",
               "idd",
@@ -590,7 +590,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-05T11:07:08Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "DisplayLink",
             "repo": "evdi",
             "stars": 952,
@@ -622,7 +622,7 @@
             "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "desktop",
               "display",
@@ -712,7 +712,7 @@
             "open_issues": 0,
             "owner": "XenHat",
             "repo": "dummy-plug-automation",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:37:31.552Z",
+    "last_updated": "2026-10-06T10:43:42.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,7 +801,7 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-05T18:41:27Z",
+      "last_commit": "2026-10-06T03:18:06Z",
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
