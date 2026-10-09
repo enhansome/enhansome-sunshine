@@ -21,7 +21,7 @@
                 "open_issues": 562,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 18982,
+                "stars": 18996,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 403,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7243,
+                "stars": 7249,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 177,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -103,7 +103,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-06T03:28:36Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
                 "stars": 1663,
@@ -193,7 +193,7 @@
                 "open_issues": 85,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1492,
+                "stars": 1493,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -243,10 +243,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T10:28:41Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 603,
+                "stars": 604,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -284,11 +284,11 @@
                 "id": 713545799,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T11:23:47Z",
+                "last_commit": "2026-10-08T19:25:39Z",
                 "open_issues": 11,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -387,7 +387,7 @@
             "open_issues": 4,
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -533,7 +533,7 @@
             "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10283,
+            "stars": 10289,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5629,
+            "stars": 5632,
             "topics": [
               "headless-display",
               "idd",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:23:08.063Z",
+    "last_updated": "2026-10-09T02:40:49.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,18 +801,18 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-06T03:18:06Z",
+      "last_commit": "2026-10-08T12:43:30Z",
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 538,
+      "stars": 539,
       "topics": [
         "awesome",
         "awesome-list",
         "nodejs"
       ]
     },
-    "original_repository_sha": "f08752e12a0e792ea2db16dae7df3d8781008b5c",
+    "original_repository_sha": "325735f375296c0fcbe8aad6cff0c984e4f6c36f",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
