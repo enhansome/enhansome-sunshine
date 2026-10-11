@@ -21,7 +21,7 @@
                 "open_issues": 563,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19015,
+                "stars": 19030,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T08:51:24Z",
-                "open_issues": 404,
+                "open_issues": 405,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7254,
+                "stars": 7260,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -166,7 +166,7 @@
                 "open_issues": 90,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1658,
+                "stars": 1659,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -193,7 +193,7 @@
                 "open_issues": 85,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 818,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -246,7 +246,7 @@
                 "open_issues": 36,
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 604,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -285,10 +285,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-08T19:25:39Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -349,11 +349,11 @@
             "id": 715131551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-05-10T13:50:36Z",
+            "last_commit": "2026-10-10T08:38:01Z",
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "aws",
               "cloud",
@@ -387,7 +387,7 @@
             "open_issues": 4,
             "owner": "Arbitrate3280",
             "repo": "LutrisToSunshine",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -533,7 +533,7 @@
             "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10299,
+            "stars": 10306,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5636,
+            "stars": 5639,
             "topics": [
               "headless-display",
               "idd",
@@ -590,7 +590,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-05T11:07:08Z",
-            "open_issues": 99,
+            "open_issues": 98,
             "owner": "DisplayLink",
             "repo": "evdi",
             "stars": 953,
@@ -664,7 +664,7 @@
             "open_issues": 4,
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:00:48.980Z",
+    "last_updated": "2026-10-11T01:26:05.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -805,7 +805,7 @@
       "open_issues": 2,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 539,
+      "stars": 540,
       "topics": [
         "awesome",
         "awesome-list",
