@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T00:31:03Z",
+                "last_commit": "2026-10-23T04:03:30Z",
                 "open_issues": 568,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19195,
+                "stars": 19218,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 409,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7337,
+                "stars": 7350,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -76,10 +76,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-26T21:07:13Z",
-                "open_issues": 177,
+                "open_issues": 179,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -193,7 +193,7 @@
                 "open_issues": 86,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 826,
+                "stars": 827,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -246,7 +246,7 @@
                 "open_issues": 33,
                 "owner": "TheElixZammuto",
                 "repo": "moonlight-xbox",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -264,7 +264,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T00:03:08Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
                 "stars": 317,
@@ -284,11 +284,11 @@
                 "id": 713545799,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T14:04:05Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-23T12:02:20Z",
+                "open_issues": 2,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -353,7 +353,7 @@
             "open_issues": 34,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "aws",
               "cloud",
@@ -530,10 +530,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-19T11:36:47Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10405,
+            "stars": 10413,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5678,
+            "stars": 5683,
             "topics": [
               "headless-display",
               "idd",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:07:17.711Z",
+    "last_updated": "2026-10-24T01:17:36.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
