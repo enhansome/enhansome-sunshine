@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-25T03:41:07Z",
-                "open_issues": 575,
+                "open_issues": 576,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19249,
+                "stars": 19260,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T13:51:27Z",
-                "open_issues": 411,
+                "open_issues": 412,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7362,
+                "stars": 7369,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 179,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1698,
+                "stars": 1701,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -103,7 +103,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-06T03:28:36Z",
-                "open_issues": 122,
+                "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
                 "stars": 1665,
@@ -166,7 +166,7 @@
                 "open_issues": 91,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1673,
+                "stars": 1674,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -284,8 +284,8 @@
                 "id": 713545799,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T12:02:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-26T10:10:58Z",
+                "open_issues": 3,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
                 "stars": 318,
@@ -353,7 +353,7 @@
             "open_issues": 34,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "aws",
               "cloud",
@@ -530,10 +530,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-19T11:36:47Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10423,
+            "stars": 10429,
             "topics": [
               "display",
               "display-driver",
@@ -561,7 +561,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5687,
+            "stars": 5692,
             "topics": [
               "headless-display",
               "idd",
@@ -590,7 +590,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-05T11:07:08Z",
-            "open_issues": 101,
+            "open_issues": 100,
             "owner": "DisplayLink",
             "repo": "evdi",
             "stars": 954,
@@ -622,7 +622,7 @@
             "open_issues": 19,
             "owner": "MolotovCherry",
             "repo": "virtual-display-rs",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "desktop",
               "display",
@@ -655,17 +655,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Virtual Display Driver: Wizard is a GUI tool that can integrate with other software such as Sunshine for efficient manipulation (Install / Uninstall / Reload / Configure) of Indirect Display Driver Sample (IddSample) implementations like the HDR capable Virtual Display Driver from itsmikethetech that works on Windows 10/11.",
+            "description": "Desktop utility for creating and arranging virtual displays on Windows, packaged as an Electron app over a Go core.",
             "homepage": null,
             "id": 853530648,
             "language": "AutoHotkey",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T17:03:34Z",
+            "last_commit": "2026-10-26T14:32:22Z",
             "open_issues": 4,
             "owner": "PrPlanIT",
             "repo": "DisplayWizard",
-            "stars": 130,
-            "topics": []
+            "stars": 129,
+            "topics": [
+              "desktop",
+              "displays",
+              "electron",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         }
@@ -691,28 +696,7 @@
             "open_issues": 5,
             "owner": "fehbari",
             "repo": "sunshine-scripts",
-            "stars": 60,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:27:00.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dummy Plug Automation",
-          "description": "Automation for remote streaming using a dummy plug on Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Wayland-compatible automation for remote streaming using a dummy plug on Linux",
-            "homepage": null,
-            "id": 865520533,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-09T15:38:46Z",
-            "open_issues": 0,
-            "owner": "XenHat",
-            "repo": "dummy-plug-automation",
-            "stars": 48,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
@@ -739,6 +723,27 @@
               "toggle",
               "windows"
             ]
+          },
+          "first_seen": "2026-08-28T06:27:00.741Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dummy Plug Automation",
+          "description": "Automation for remote streaming using a dummy plug on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wayland-compatible automation for remote streaming using a dummy plug on Linux",
+            "homepage": null,
+            "id": 865520533,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-09T15:38:46Z",
+            "open_issues": 0,
+            "owner": "XenHat",
+            "repo": "dummy-plug-automation",
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:27:00.741Z"
         },
@@ -793,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:54:52.603Z",
+    "last_updated": "2026-10-27T01:45:45.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -801,11 +806,11 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-19T21:49:17Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-26T07:05:44Z",
+      "open_issues": 4,
       "owner": "LizardByte",
       "repo": "awesome-sunshine",
-      "stars": 545,
+      "stars": 546,
       "topics": [
         "awesome",
         "awesome-list",
