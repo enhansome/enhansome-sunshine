@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T17:21:03Z",
+                "last_commit": "2026-11-13T02:40:46Z",
                 "open_issues": 588,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19481,
+                "stars": 19496,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T13:51:27Z",
-                "open_issues": 419,
+                "open_issues": 421,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7470,
+                "stars": 7475,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 185,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1718,
+                "stars": 1720,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -106,7 +106,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -166,7 +166,7 @@
                 "open_issues": 91,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1690,
+                "stars": 1693,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 829,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -267,7 +267,7 @@
                 "open_issues": 1,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 339,
+                "stars": 342,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -297,10 +297,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T00:03:08Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "zoeyjodon",
                 "repo": "moonlight-N3DS",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -353,7 +353,7 @@
             "open_issues": 34,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 993,
+            "stars": 994,
             "topics": [
               "aws",
               "cloud",
@@ -531,7 +531,7 @@
             "open_issues": 210,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10564,
+            "stars": 10570,
             "topics": [
               "display",
               "display-driver",
@@ -559,7 +559,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5724,
+            "stars": 5727,
             "topics": [
               "headless-display",
               "idd",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:31:06.970Z",
+    "last_updated": "2026-11-13T03:04:12.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -808,7 +808,7 @@
       "open_issues": 2,
       "owner": "SunshineStream",
       "repo": "awesome-sunshine",
-      "stars": 555,
+      "stars": 556,
       "topics": [
         "awesome",
         "awesome-list",
