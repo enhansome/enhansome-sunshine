@@ -21,7 +21,7 @@
                 "open_issues": 589,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19512,
+                "stars": 19531,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T13:51:27Z",
-                "open_issues": 422,
+                "open_issues": 423,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7477,
+                "stars": 7489,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 186,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -162,7 +162,7 @@
                 "id": 375381453,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-26T19:39:26Z",
+                "last_commit": "2026-11-14T11:14:32Z",
                 "open_issues": 91,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
@@ -190,10 +190,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T15:24:43Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1536,
+                "stars": 1537,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -225,7 +225,7 @@
                 "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 828,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -267,7 +267,7 @@
                 "open_issues": 1,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 342,
+                "stars": 344,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -349,11 +349,11 @@
             "id": 715131551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T14:27:57Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-15T00:18:20Z",
+            "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 994,
+            "stars": 996,
             "topics": [
               "aws",
               "cloud",
@@ -531,7 +531,7 @@
             "open_issues": 210,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10578,
+            "stars": 10588,
             "topics": [
               "display",
               "display-driver",
@@ -559,7 +559,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5732,
+            "stars": 5734,
             "topics": [
               "headless-display",
               "idd",
@@ -591,7 +591,7 @@
             "open_issues": 102,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 965,
+            "stars": 968,
             "topics": [
               "display",
               "displaylink",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:49:59.788Z",
+    "last_updated": "2026-11-15T02:17:57.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
