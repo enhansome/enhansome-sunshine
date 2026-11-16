@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T06:59:34Z",
-                "open_issues": 589,
+                "last_commit": "2026-11-15T07:05:48Z",
+                "open_issues": 590,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19531,
+                "stars": 19544,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 423,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7489,
+                "stars": 7500,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -106,7 +106,7 @@
                 "open_issues": 120,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1671,
+                "stars": 1674,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -162,11 +162,11 @@
                 "id": 375381453,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T11:14:32Z",
+                "last_commit": "2026-11-16T00:20:45Z",
                 "open_issues": 91,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1694,
+                "stars": 1697,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -189,11 +189,11 @@
                 "id": 325637626,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T15:24:43Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-16T00:26:57Z",
+                "open_issues": 85,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1537,
+                "stars": 1541,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -267,7 +267,7 @@
                 "open_issues": 1,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 344,
+                "stars": 350,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -325,6 +325,45 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TCL Google TV",
+              "description": "Moonlight client for TCL Google TVs on Android 14.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Moonlight game streaming client for TCL Google TVs on Android 14: no freezes or reboots, 4K HDR at a steady 60 FPS, 2 MB APK. An Artemis fork for Sunshine and Apollo.",
+                "homepage": "https://github.com/pabragin/moonlight-tcl/releases/latest",
+                "id": 1355151292,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-11T09:07:01Z",
+                "open_issues": 1,
+                "owner": "pabragin",
+                "repo": "moonlight-tcl",
+                "stars": 32,
+                "topics": [
+                  "android-14",
+                  "android-tv",
+                  "apollo",
+                  "artemis",
+                  "game-streaming",
+                  "gamestream",
+                  "google-tv",
+                  "hdr",
+                  "low-latency",
+                  "mediatek",
+                  "moonlight",
+                  "moonlight-android",
+                  "obtainium",
+                  "pc-gaming",
+                  "remote-gaming",
+                  "sunshine",
+                  "tcl"
+                ]
+              },
+              "first_seen": "2026-11-16T02:30:38.354Z"
             }
           ],
           "description": null,
@@ -349,11 +388,11 @@
             "id": 715131551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-15T00:18:20Z",
+            "last_commit": "2026-11-15T10:52:39Z",
             "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 996,
+            "stars": 995,
             "topics": [
               "aws",
               "cloud",
@@ -531,7 +570,7 @@
             "open_issues": 210,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10588,
+            "stars": 10598,
             "topics": [
               "display",
               "display-driver",
@@ -559,7 +598,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5734,
+            "stars": 5737,
             "topics": [
               "headless-display",
               "idd",
@@ -591,7 +630,7 @@
             "open_issues": 102,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 968,
+            "stars": 970,
             "topics": [
               "display",
               "displaylink",
@@ -796,7 +835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:17:57.948Z",
+    "last_updated": "2026-11-16T02:30:38.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -804,7 +843,7 @@
       "id": 843560793,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-09T18:08:02Z",
+      "last_commit": "2026-11-15T21:58:54Z",
       "open_issues": 2,
       "owner": "SunshineStream",
       "repo": "awesome-sunshine",
@@ -815,7 +854,7 @@
         "sunshine"
       ]
     },
-    "original_repository_sha": "a7950d1e9921367012f54c9fddb3676fe577c5c1",
+    "original_repository_sha": "1b366b014d0e9bf4283d494c0565c5dc396f1ec2",
     "enhanced_repository": "enhansome/enhansome-sunshine",
     "enhanced_repository_description": null,
     "title": "Awesome sunshine with stars"
