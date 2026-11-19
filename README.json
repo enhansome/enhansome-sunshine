@@ -21,7 +21,7 @@
                 "open_issues": 591,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19574,
+                "stars": 19585,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -49,10 +49,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T13:51:27Z",
-                "open_issues": 424,
+                "open_issues": 425,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7513,
+                "stars": 7517,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -79,7 +79,7 @@
                 "open_issues": 186,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-ios",
-                "stars": 1723,
+                "stars": 1724,
                 "topics": [
                   "gamestream",
                   "ios-app",
@@ -162,7 +162,7 @@
                 "id": 375381453,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T10:13:04Z",
+                "last_commit": "2026-11-18T08:38:20Z",
                 "open_issues": 91,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
@@ -267,7 +267,7 @@
                 "open_issues": 1,
                 "owner": "brightcraft",
                 "repo": "moonlight-tizen",
-                "stars": 352,
+                "stars": 356,
                 "topics": [
                   "emscripten",
                   "game-streaming",
@@ -342,7 +342,7 @@
                 "open_issues": 1,
                 "owner": "pabragin",
                 "repo": "moonlight-tcl",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "android-14",
                   "android-tv",
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-15T10:52:39Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "PierreBeucher",
             "repo": "cloudypad",
-            "stars": 997,
+            "stars": 996,
             "topics": [
               "aws",
               "cloud",
@@ -570,7 +570,7 @@
             "open_issues": 210,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10618,
+            "stars": 10627,
             "topics": [
               "display",
               "display-driver",
@@ -598,7 +598,7 @@
             "open_issues": 8,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5744,
+            "stars": 5745,
             "topics": [
               "headless-display",
               "idd",
@@ -626,11 +626,11 @@
             "id": 40113584,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-17T09:14:16Z",
+            "last_commit": "2026-11-18T14:42:16Z",
             "open_issues": 101,
             "owner": "DisplayLink",
             "repo": "evdi",
-            "stars": 974,
+            "stars": 976,
             "topics": [
               "display",
               "displaylink",
@@ -835,7 +835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:58:53.521Z",
+    "last_updated": "2026-11-19T03:55:36.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
