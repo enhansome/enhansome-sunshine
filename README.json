@@ -17,11 +17,11 @@
                 "id": 131449222,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T02:36:00Z",
-                "open_issues": 593,
+                "last_commit": "2026-11-27T18:26:33Z",
+                "open_issues": 592,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-qt",
-                "stars": 19806,
+                "stars": 19823,
                 "topics": [
                   "gamestream",
                   "linux-app",
@@ -52,7 +52,7 @@
                 "open_issues": 426,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-android",
-                "stars": 7621,
+                "stars": 7632,
                 "topics": [
                   "android-app",
                   "android-tv-apps",
@@ -166,7 +166,7 @@
                 "open_issues": 163,
                 "owner": "XITRIX",
                 "repo": "Moonlight-Switch",
-                "stars": 1718,
+                "stars": 1719,
                 "topics": [
                   "homebrew",
                   "moonlight",
@@ -193,7 +193,7 @@
                 "open_issues": 83,
                 "owner": "mariotaku",
                 "repo": "moonlight-tv",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "lg-webos",
                   "moonlight-client",
@@ -225,7 +225,7 @@
                 "open_issues": 77,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 830,
+                "stars": 831,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:27:00.741Z"
@@ -342,7 +342,7 @@
                 "open_issues": 0,
                 "owner": "pabragin",
                 "repo": "moonlight-tcl",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "android-14",
                   "android-tv",
@@ -570,7 +570,7 @@
             "open_issues": 211,
             "owner": "VirtualDrivers",
             "repo": "Virtual-Display-Driver",
-            "stars": 10701,
+            "stars": 10705,
             "topics": [
               "display",
               "display-driver",
@@ -598,7 +598,7 @@
             "open_issues": 9,
             "owner": "nomi-san",
             "repo": "parsec-vdd",
-            "stars": 5777,
+            "stars": 5778,
             "topics": [
               "headless-display",
               "idd",
@@ -627,7 +627,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-18T14:42:16Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "DisplayLink",
             "repo": "evdi",
             "stars": 978,
@@ -835,7 +835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:40:59.689Z",
+    "last_updated": "2026-11-28T04:26:41.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",

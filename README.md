@@ -26,22 +26,22 @@
 
 ### ✳️ Official Moonlight Clients
 
-* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,806 | 🐛 593 | 🌐 C++ | 📅 2026-11-26 - Official QT client.
-* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,621 | 🐛 426 | 🌐 C | 📅 2026-10-17 - Official Android client.
+* [QT](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,823 | 🐛 592 | 🌐 C++ | 📅 2026-11-27 - Official QT client.
+* [Android](https://github.com/moonlight-stream/moonlight-android) ⭐ 7,632 | 🐛 426 | 🌐 C | 📅 2026-10-17 - Official Android client.
 * [iOS](https://github.com/moonlight-stream/moonlight-ios) ⭐ 1,736 | 🐛 189 | 🌐 C | 📅 2026-09-26 - Official iOS client.
 * [Embedded](https://github.com/moonlight-stream/moonlight-embedded) ⭐ 1,676 | 🐛 121 | 🌐 C | 📅 2026-11-11 - Official Embedded client.
 * [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) ⚠️ Archived - Official ChromeOS client.
 
 ### ✴️ Third-Party Moonlight Clients
 
-* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,718 | 🐛 163 | 🌐 C | 📅 2026-11-18 - Moonlight client for Nintendo Switch.
-* [LG webOS TV](https://github.com/mariotaku/moonlight-tv) ⭐ 1,549 | 🐛 83 | 🌐 C | 📅 2026-11-21 - Moonlight client for LG webOS TV.
-* [PS Vita](https://github.com/xyzz/vita-moonlight) ⭐ 830 | 🐛 77 | 🌐 C++ | 📅 2026-11-17 - Moonlight client for PS Vita.
+* [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) ⭐ 1,719 | 🐛 163 | 🌐 C | 📅 2026-11-18 - Moonlight client for Nintendo Switch.
+* [LG webOS TV](https://github.com/mariotaku/moonlight-tv) ⭐ 1,550 | 🐛 83 | 🌐 C | 📅 2026-11-21 - Moonlight client for LG webOS TV.
+* [PS Vita](https://github.com/xyzz/vita-moonlight) ⭐ 831 | 🐛 77 | 🌐 C++ | 📅 2026-11-17 - Moonlight client for PS Vita.
 * [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) ⭐ 625 | 🐛 32 | 🌐 C++ | 📅 2026-11-09 - Moonlight client for UWP/Xbox (One/Series).
 * [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) ⭐ 369 | 🐛 1 | 🌐 C | 📅 2026-11-17 - Moonlight client for Samsung Tizen TV.
 * [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) ⭐ 321 | 🐛 48 | 🌐 C++ | 📅 2026-08-31 - Moonlight client for New Nintendo 3DS.
 * [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) ⭐ 218 | 🐛 45 | 🌐 C | 📅 2026-02-14 - Moonlight client for Nintendo Wii U.
-* [TCL Google TV](https://github.com/pabragin/moonlight-tcl) ⭐ 42 | 🐛 0 | 🌐 C | 📅 2026-11-26 - Moonlight client for TCL Google TVs on Android 14.
+* [TCL Google TV](https://github.com/pabragin/moonlight-tcl) ⭐ 43 | 🐛 0 | 🌐 C | 📅 2026-11-26 - Moonlight client for TCL Google TVs on Android 14.
 
 ## 🔧 Tools
 
@@ -62,21 +62,21 @@
 ## 💠 Frontends
 
 * [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 14,620 | 🐛 640 | 🌐 C# | 📅 2026-11-18 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 14,625 | 🐛 639 | 🌐 C# | 📅 2026-11-18 - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 * [Steam](https://store.steampowered.com) - The ultimate destination for playing, discussing, and creating games.
 
 ## 💻 Virtual Displays
 
-* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 10,701 | 🐛 211 | 🌐 C++ | 📅 2026-09-19 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
-* [parsec-vdd](https://github.com/nomi-san/parsec-vdd) ⭐ 5,777 | 🐛 9 | 🌐 C# | 📅 2026-05-15 - Standalone Parsec Virtual Display.
-* [evdi](https://github.com/DisplayLink/evdi) ⭐ 978 | 🐛 104 | 🌐 C | 📅 2026-11-18 - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
+* [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) ⭐ 10,705 | 🐛 211 | 🌐 C++ | 📅 2026-09-19 - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+* [parsec-vdd](https://github.com/nomi-san/parsec-vdd) ⭐ 5,778 | 🐛 9 | 🌐 C# | 📅 2026-05-15 - Standalone Parsec Virtual Display.
+* [evdi](https://github.com/DisplayLink/evdi) ⭐ 978 | 🐛 105 | 🌐 C | 📅 2026-11-18 - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
 * [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) ⭐ 910 | 🐛 21 | 🌐 Rust | 📅 2025-03-03 - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.
 * [VirtualDisplayDriver\_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) ⭐ 130 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-11-26 - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
 * [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) command-line utility that creates a headless virtual display, accessible over the network via VNC.
 
 ## 🎮 Virtual Gamepads
 
-* [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) ⭐ 124 | 🐛 17 | 🌐 C++ | 📅 2026-11-23 - User-mode virtual gamepads for Windows. Adds more gamepad types to Windows, such as Xbox One|Series, DualSense, Nintendo Switch Pro, and more to come in the future.
+* [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) ⭐ 124 | 🐛 20 | 🌐 C++ | 📅 2026-11-27 - User-mode virtual gamepads for Windows. Adds more gamepad types to Windows, such as Xbox One|Series, DualSense, Nintendo Switch Pro, and more to come in the future.
 
 ## 📜 Scripts
 
@@ -104,4 +104,4 @@ when contributing to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
